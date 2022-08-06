@@ -165,10 +165,10 @@ We'll learn about the purposes of these files and folders as we go. For now, jus
 
 ## Starting and Stopping the Development Server
 
-Ember CLI comes with a lot of different commands for a variety of development tasks, such as the `ember new` command that we saw earlier. It also comes with a _development server_, which we can launch with the `ember server` command:
+Ember CLI comes with a lot of different commands for a variety of development tasks, such as the `ember new` command that we saw earlier. It also comes with a _development server_, which we can launch with the `ember serve` command:
 
 ```shell
-$ ember server
+$ ember serve
 building... 
 
 Build successful (9761ms) – Serving on http://localhost:4200/
